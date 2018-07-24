@@ -1,14 +1,14 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: "My Data Science Projects"
+permalink: /r/
+title: "Data Science R Projects"
 author_profile: true
 header:
   image: "/images/lightrail.jpeg"
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.posts field="tagss" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
