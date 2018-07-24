@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /python/
-title: "Data Science Python Projects"
+permalink: /machine-learning/
+title: "My Data Science Projects"
 author_profile: true
 header:
   image: "/images/lightrail.jpeg"
