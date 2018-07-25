@@ -11,7 +11,7 @@ I was born and raised in the city of Jakarta, Indonesia and spent most of my chi
 
 I am a junior, up and coming Data Scientist who is very passionate in working with data specifically on Machine Learning, Exploratory Data Analysis and Data Visualizations.
 
-I am currently living in Minneapolis, MN and working as Data Analyst in a company for Medical Devices at Plymouth, MN.
+I am currently living in Minneapolis, MN working as Data Analyst in a company for Medical Devices at Plymouth, MN.
 
 On 2017, I obtained a Bachelor of Science degree in Statistics from the University of Minnesota. However, my learning life did not just stop there! After graduating, I have been taking online courses and certificates to satisfy my hunger in learning. Some of them include:
 
@@ -23,9 +23,9 @@ On 2017, I obtained a Bachelor of Science degree in Statistics from the Universi
 
 In addition to that, I have also been taking part in projects competitions on Kaggle during my leisure time as a hobby.
 
-Outside of my technical nerdy life, I have other hobbies too including playing fingerstyle guitar, pick up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch) !
+Outside of my technical nerdy life, I also have other hobbies that I often do in my leisure time including playing fingerstyle guitar, pick up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)!
 
-I also do have future plans and goals, some of them include:
+I also do have future plans and goals which include:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
