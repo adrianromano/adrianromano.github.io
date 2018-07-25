@@ -13,7 +13,7 @@ I am a junior, up and coming Data Scientist who is very passionate in working wi
 
 I currently live in Minneapolis, MN working as a Data Analyst in a company of Medical Devices at Plymouth, MN.
 
-In 2017, I obtained a B.S degree in Statistics from the University of Minnesota - Twin Cities. I have been taking online courses and certificates ever since then to broaden my knowledge in Data Science. Some of the completed ones include:
+In 2017, I obtained a B.S degree in Statistics from the University of Minnesota - Twin Cities. I have been taking online courses and certificates ever since then to broaden my knowledge in Data Science. Some of the ones I completed include:
 
 - Data Science Specialization, Johns Hopkins University on Coursera
 - Data Science Microsoft Professional Program, Microsoft on edX
@@ -21,18 +21,18 @@ In 2017, I obtained a B.S degree in Statistics from the University of Minnesota 
 - Data Science for Business , IBM
 - Big Data Fundamentals, IBM
 
-In addition to that, I also took part in some Data Science project competitions on Kaggle during my leisure time as a hobby.
+In addition to that, I also took part in some Data Science project competitions from Kaggle during my leisure time as a hobby.
 
 R and Python are the programming tools that I most often used to do my Data Science work. Feel free to explore my portfolio to browse some of these projects.
 
-Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch :) )
+Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch ;) )
 
 My life journey does not just ends here though! I also have some future plans and goals that includes:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
 - Tackle some more certificates and competitions (especially for Big Data projects)
-- Broaden my knowledge of Forex Trading
+- Broaden my knowledge in Forex Trading
 - Learn to sing and play the piano
 - Travel around the World
 - Eat good foods!!
