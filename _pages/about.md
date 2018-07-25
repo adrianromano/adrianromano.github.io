@@ -21,21 +21,18 @@ On 2017, I obtained a Bachelor of Science degree in Statistics from the Universi
 - Data Science for Business , IBM
 - Big Data Fundamentals, IBM
 
-In addition to that, I also have been taking part in some projects competitions on Kaggle and am not planning to stop anytime soon.
+In addition to that, I also have been taking part in some projects competitions on Kaggle during my leisure time as a hobby.
 
-Outside of my technical nerdy life, I also have other hobbies such as:
-
-- Fingerstyle Guitar
-- Pick up basketball
-- Snowboarding
-- Video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)
+Outside of my technical nerdy life, I also have other hobbies of playing fingerstyle guitar, pick up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch) !
 
 I also do have future plans and goals, some of them include:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
-- Tackle some more certificates and competitions especially for Big Data projects
+- Tackle some more certificates and competitions (especially for Big Data projects)
 - Learn how to sing and play the violin
 - Travel around the World!
 
 And that’s about it! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/adrian-r-angkawijaya-717b53161/) or get in touch if you want to discuss opportunities, collaboration or just share about anything in general. I’m always happy to talk!
+
+Thanks for reading !
