@@ -23,16 +23,16 @@ On 2017, I obtained a Bachelor of Science degree in Statistics from the Universi
 
 In addition to that, I also took part in some project competitions on Kaggle during my leisure time as a hobby.
 
-R and Python are the programming tools that I most often used to do my Data Science works. Feel free to explore this portfolio to browse my projects.
+R and Python are the programming tools that I most often used to do my Data Science works. Feel free to explore my portfolio to browse some of these projects.
 
-Outside of my technical nerdy life, I have other hobbies that I also often do in my leisure time including playing fingerstyle guitar, pick up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)!
+Outside of my technical nerdy life, I have other hobbies that I also often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)!
 
-I also do have future plans and goals which include:
+My life journey does not just ends here though! I also have future plans and goals which include:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
 - Tackle some more certificates and competitions (especially for Big Data projects)
-- Learn how to sing and play the violin
+- Learn to sing and play the piano
 - Travel around the World!
 
 And that’s about it! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-r-angkawijaya-717b53161/) or shoot a dm if you want to discuss opportunities, collaboration or just share about anything in general. I’m always happy to talk!
