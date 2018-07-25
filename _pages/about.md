@@ -7,13 +7,13 @@ header:
 
 Hi! This is Adrian here.
 
-I was born and raised in the city of Jakarta, Indonesia and spent most of my childhood studying in local International Schools before I went abroad to study in the States.
+I was born and raised in the city of Jakarta, Indonesia and spent most of my childhood studying in local International English Schools before I went abroad to study in the States.
 
 I am a junior, up and coming Data Scientist who is very passionate in working with data specifically on Machine Learning, Exploratory Data Analysis and Data Visualizations.
 
-I currently live in Minneapolis, MN working as a Data Analyst in a company of Medical Devices located at Plymouth, MN.
+I currently live in Minneapolis, MN working as a Data Analyst in a company of Medical Devices at Plymouth, MN.
 
-On 2017, I obtained a B.S degree in Statistics from the University of Minnesota but my learning life did not end after that. I have been taking online courses and certificates ever since then to satisfy my hunger in learning. Some of the completed ones include:
+On 2017, I obtained a B.S degree in Statistics from the University of Minnesota - Twin Cities. I have been taking online courses and certificates ever since then to satisfy my hunger in learning. Some of the completed ones include:
 
 - Data Science Specialization, Johns Hopkins University on Coursera
 - Data Science Microsoft Professional Program, Microsoft on edX
