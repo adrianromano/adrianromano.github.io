@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrian Romano Angkawijaya"
-  avatar           : "/images/me1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me1.png.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minnepolis, MN"
   email            : "adrianromano08@gmail.com"
