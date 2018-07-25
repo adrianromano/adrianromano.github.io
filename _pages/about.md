@@ -25,7 +25,7 @@ In addition to that, I also took part in some Data Science project competitions 
 
 R and Python are the programming tools that I most often used to do my Data Science work. Feel free to explore my portfolio to browse some of these projects.
 
-Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch ;) )
+Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays *God of War* on PS4 and *Legend of Zelda: Breath of the Wild* on Nintendo Switch ;) )
 
 My life journey does not just ends here though! I also have some future plans and goals that includes:
 
