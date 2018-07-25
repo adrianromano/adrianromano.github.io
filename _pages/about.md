@@ -7,13 +7,13 @@ header:
 
 Hi! This is Adrian here.
 
-I was born and raised in the city of Jakarta, Indonesia and spent most of my childhood studying in an International School before I went abroad to study in the States.
+I was born and raised in the city of Jakarta, Indonesia and spent most of my childhood studying in local International Schools before I went abroad to study in the States.
 
 I am a junior, up and coming Data Scientist who is very passionate in working with data specifically on Machine Learning, Exploratory Data Analysis and Data Visualizations.
 
-I currently live in Minneapolis, MN working as Data Analyst in a company for Medical Devices at Plymouth, MN.
+I currently live in Minneapolis, MN working as a Data Analyst in a company of Medical Devices located at Plymouth, MN.
 
-On 2017, I obtained a Bachelor of Science degree in Statistics from the University of Minnesota. However, my learning life did not just stop after that! I have been taking online courses and certificates ever since then to satisfy my hunger in learning. Some of the completed ones include:
+On 2017, I obtained a B.S degree in Statistics from the University of Minnesota but my learning life did not end after that. I have been taking online courses and certificates ever since then to satisfy my hunger in learning. Some of the completed ones include:
 
 - Data Science Specialization, Johns Hopkins University on Coursera
 - Data Science Microsoft Professional Program, Microsoft on edX
@@ -25,16 +25,20 @@ In addition to that, I also took part in some project competitions on Kaggle dur
 
 R and Python are the programming tools that I most often used to do my Data Science works. Feel free to explore my portfolio to browse some of these projects.
 
-Outside of my technical nerdy life, I have other hobbies that I also often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)!
+Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch!)
 
-My life journey does not just ends here though! I also have future plans and goals which include:
+My life journey does not just ends here though! I also have some future plans and goals that includes:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
 - Tackle some more certificates and competitions (especially for Big Data projects)
+- Broaden my knowledge of Forex Trading
 - Learn to sing and play the piano
-- Travel around the World!
+- Travel around the World
+- Eat good foods !!
 
-And that’s about it! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-r-angkawijaya-717b53161/) or shoot a dm if you want to discuss opportunities, collaboration or just share about anything in general. I’m always happy to talk!
+and so much more!
+
+That’s about it for my introduction! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-r-angkawijaya-717b53161/) or shoot me a dm if you want to discuss opportunities, collaboration or just share about anything in general. I’m always happy to talk!
 
 Thanks for reading !
