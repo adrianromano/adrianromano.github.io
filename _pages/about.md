@@ -23,6 +23,8 @@ On 2017, I obtained a Bachelor of Science degree in Statistics from the Universi
 
 In addition to that, I have also been taking part in projects competitions on Kaggle during my leisure time as a hobby.
 
+R and Python are programming tools that I use to do my Data Science work. I am very comfortable with using them.
+
 Outside of my technical nerdy life, I also have other hobbies that I often do in my leisure time including playing fingerstyle guitar, pick up basketball, snowboarding and video games (Currently plays God of War on PS4 and Legend of Zelda: Breath of the Wild on Nintendo Switch)!
 
 I also do have future plans and goals which include:
