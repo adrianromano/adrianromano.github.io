@@ -7,7 +7,7 @@ header:
 
 Hi! This is Adrian here.
 
-I was born and raised in the city of Jakarta, Indonesia and spent most of my childhood studying in local International English Schools before I went abroad to study in the US.
+I was born and raised in the city of Jakarta, Indonesia and spent most of my teen life studying in local International Schools before I went abroad to study in the US.
 
 I am a junior, up and coming Data Scientist who is very passionate in working with data specifically on Machine Learning, Exploratory Data Analysis and Data Visualizations.
 
@@ -27,7 +27,7 @@ R and Python are the programming tools that I most often used to do my Data Scie
 
 Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays *God of War* on PS4 and *Legend of Zelda: Breath of the Wild* on Nintendo Switch ;) )
 
-My life journey does not just ends here though! I also have some future plans and goals that includes:
+My life journey does not end here though! I also have some future plans and goals that includes:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
