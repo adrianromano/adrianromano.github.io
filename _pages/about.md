@@ -27,11 +27,11 @@ R and Python are the programming tools that I most often used to do my Data Scie
 
 Outside of my technical "nerdy" life, I also have other hobbies that I often do in my leisure time such as playing fingerstyle guitar, pick-up basketball, snowboarding and video games (Currently plays *God of War* on PS4 and *Legend of Zelda: Breath of the Wild* on Nintendo Switch ;) )
 
-My life journey does not end here though! I also have some future plans and goals that includes:
+My life journey does not end just here though! I also have future plans and goals that includes:
 
 - Obtain a Master Degree in Data Science and/or MBA
 - Broaden my knowledge of Deep Learning and Artificial Intelligence
-- Tackle some more certificates and competitions (especially for Big Data projects)
+- Tackle some more certificates and competitions (especially for Big Data)
 - Broaden my knowledge in Forex Trading
 - Learn to sing and play the piano
 - Travel around the World
