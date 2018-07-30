@@ -7,7 +7,7 @@ header:
 
 Hi! This is Adrian here.
 
-I was born and raised in the city of Jakarta, Indonesia and spent most of my teen life studying in local International Schools before I went abroad to study in the US.
+I was born and raised in the city of Jakarta, Indonesia and spent most of my teen life studying in local International schools before I went abroad to study in the US.
 
 I am a junior, up and coming Data Scientist who is very passionate in working with data specifically on Machine Learning, Exploratory Data Analysis and Data Visualizations.
 
