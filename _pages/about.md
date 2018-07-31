@@ -20,6 +20,7 @@ In 2017, I obtained a B.S degree in Statistics from the University of Minnesota 
 - Python, R, SQL Data Science Bootcamp, Udemy
 - Data Science for Business , IBM
 - Big Data Fundamentals, IBM
+- Big Data with Hadoop in Azure HDInsight, Microsoft on edX
 
 In addition to that, I also took part in some Data Science project competitions from Kaggle during my leisure time as a hobby.
 
