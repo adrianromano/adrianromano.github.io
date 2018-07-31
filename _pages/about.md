@@ -16,7 +16,7 @@ I currently live in Minneapolis, MN working as a Data Analyst in a company of Me
 In 2017, I obtained a B.S degree in Statistics from the University of Minnesota - Twin Cities. I have been taking online courses and certificates ever since then to broaden my knowledge in Data Science. Some of the ones I completed include:
 
 - Data Science Specialization, Johns Hopkins University on Coursera
-- Data Science Microsoft Professional Program, Microsoft on edX
+- Data Science Microsoft Professional Program, Microsoft 
 - Python, R, SQL Data Science Bootcamp, Udemy
 - Data Science for Business , IBM
 - Big Data Fundamentals, IBM
