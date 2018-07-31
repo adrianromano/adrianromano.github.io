@@ -7,6 +7,8 @@ header:
   image: "/images/stonearch.jpeg"
 ---
 
+Coming soon !
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tagsss" %}
 
